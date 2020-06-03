@@ -16,7 +16,7 @@ Methodology
 
  4) Data Pre-processing: Dummy Variable Trap for elimination of insignificant features from the dataset , splitting of the dataset into training and test sets, feature scaling (standard scaling)
 
-5)The Machine Learning models used for the risk prediction and  classification of heart diseases are as follows:
+5) The Machine Learning models used for the risk prediction and  classification of heart diseases are as follows:
 
       i.)  Logistic Regression
 
@@ -26,15 +26,15 @@ Methodology
 
       iv.)   Naïve Bayesian Algorithm
 
-       v.) Decision trees Classifier
+      v.) Decision trees Classifier
 
-       vi.) Random Forest  Classifier
+      vi.) Random Forest  Classifier
 
 6) Evaluation of the performance and accuracy of the various ML models employed . Evaluation metrics consisted of:
         
-       1) Confusion Matrix (the visualisation of the confusion matrix consisting of the no. of actual cases and the no. of predicted cases is done in a tabulated format using the  seaborn library)
+   1) Confusion Matrix (the visualisation of the confusion matrix consisting of the no. of actual cases and the no. of predicted    cases is done in a tabulated format using the  seaborn library)
   
-       2) k-fold cross validation score
+   2) k-fold cross validation score
 
 
 7)  Plotting a bar graph for the comparison of the various test accuracies obtained by using the various ML classification algorithms.
